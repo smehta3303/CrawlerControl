@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crawler Control</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="SubmitButtonText">Submit Ip Address</string>
+    <string name="MyTextHint">Enter IP address in the form ***.***.***.***</string>
+    <string name="title_activity_my_socket_handler">MySocketHandler</string>
+    <string name="SendButtonText">Send Socket</string>
+    <string name="SocketDataHint">Enter data to be sent in socket</string>
+    <string name="upmessage">Tilt screen upward to accelerate</string>
+    <string name="downmessage">Tilt screen downward to move backwards</string>
+    <string name="rightmessage">Tilt screen toward the right to turn right</string>
+    <string name="leftmessage">Tilt screen toward the left to turn left</string>
+    <string name="stopmessage">STOP</string>
+    <string name="welcomestring">Welcome to Crawler Control!</string>
+    <string name="instructions">Crawler Control is an app created to remotely control your crawler. To get started connect to our app by entering your IP address below:</string>
+    <string name="stopstring">Stop</string>
+    <string name="gostring">Go</string>
+
+</resources>
